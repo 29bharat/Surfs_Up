@@ -17,8 +17,10 @@ Hawaii.sqlite file. Classes used Measurement
   
 ## Recommendations for further analysis
   
-1. It will be nice to know the wind speed as data points because that could affect the temperature and hence the business.
+1. If we had data about any existing competitiors around a station, it would help in deciding the pricing and budgeting to be more competitive.
   
-2. If we had more info about the station - example rocky or sandy or kid friendly - this would help understand how much and what kind traffic the station could pull.
+2. It will be nice to know the wind speed as data points because that could affect the temperature and hence the business.
   
-3. It will be nice to gather data about the age group and surfing experience of people coming to the station and use this data to see if the station could introduce lessons and equipments accordingly which could result in addtional business oppurtunity.
+3. If we had more info about the station - example rocky or sandy or kid friendly - this would help understand how much and what kind traffic the station could pull.
+  
+4. It will be nice to gather data about the age group and surfing experience of people coming to the station and use this data to see if the station could introduce lessons and equipments accordingly which could result in addtional business oppurtunity.
