@@ -27,4 +27,4 @@ Hawaii.sqlite file. Classes used Measurement
 
 ## Jupyter notebook
   
-Please refer to challnge.ipynb for the code.
+Please refer to challenge.ipynb for the code.
