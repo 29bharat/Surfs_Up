@@ -24,3 +24,7 @@ Hawaii.sqlite file. Classes used Measurement
 3. If we had more info about the station - example rocky or sandy or kid friendly - this would help understand how much and what kind traffic the station could pull.
   
 4. It will be nice to gather data about the age group and surfing experience of people coming to the station and use this data to see if the station could introduce lessons and equipments accordingly which could result in addtional business oppurtunity.
+
+## Jupyter notebook
+  
+Please refer to challnge.ipynb for the code.
